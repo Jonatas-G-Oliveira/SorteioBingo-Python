@@ -1,4 +1,4 @@
-# Sorteio Bingo Python
+# Bingo Python
 
 Para fazer esse projeto eu utilizei a leitura de um arquivo txt para sortear os numeros que ja
 estavam no arquivo.
